@@ -70,7 +70,7 @@ division(36, 2);
 let a = 17; //add
 let b = 36; //subtract
 let c = 6; //multiply
-let d = 36; //divid
+let d = 36; //divide
 //results
 a += 1;
 b -= 18;
